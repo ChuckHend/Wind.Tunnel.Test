@@ -1,3 +1,10 @@
+//Adam Hendel, Chris Hansen, Joe Wagner, 2016
+//University of Wisconsin - River Falls
+//Project for partial fulfillment of PHYS 312
+//reduce rotation of a projectile in a vertically oriented wind tunnel
+//communicate wirelessly with monitoring station via XBee
+
+
 /* ============================================
 I2Cdev device library code is placed under the MIT license
 Copyright (c) 2012 Jeff Rowberg
